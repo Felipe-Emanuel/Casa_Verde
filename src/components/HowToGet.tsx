@@ -5,7 +5,7 @@ export const HowToGet = () => {
     <div className="absolute w-[995px] h-[722.21px] top-[617.79px] left-[462px]">
       <div className="drop-shadow-md bottom-0 absolute w-full flex h-[440px] bg-white">
         <div className="w-[60%]">
-          <img src="../src/public/assets/MiddleImg.png" alt="MiddleImg" className="h-full"/>
+          <img src="../src/assets/MiddleImg.png" alt="MiddleImg" className="h-full"/>
         </div>
         <div className="pl-4 py-10 w-[40%] h-[440px] flex flex-col">
           <Text className="opacity-50 text-md font-Montserrat w-48 h-7 leading-[48px]">

@@ -84,7 +84,7 @@ export function Newsletter() {
         </form>
       </div>
       <div className="absolute h-[1183px] z-0 top-[-28px] w-[787px] left-[718px]">
-        <img className="" src="../src/public/assets/hero-image.png" alt="hero-image" />
+        <img className="" src="../src/assets/hero-image.png" alt="hero-image" />
       </div>
     </main>
   );
