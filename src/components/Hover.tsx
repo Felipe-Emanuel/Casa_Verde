@@ -1,4 +1,4 @@
-import { ReactNode, useRef, useEffect, useState } from "react";
+import { ReactNode } from "react";
 import * as HoverCard from "@radix-ui/react-hover-card";
 import { styled} from "@stitches/react";
 import { mauve } from "@radix-ui/colors";

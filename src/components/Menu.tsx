@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-import { Logo } from "../../public/Logo";
-import { Vector } from "../../public/Vector";
+import { Logo } from "../public/assets/Logo";
+import { Vector } from "../public/assets/Vector";
 import { Text } from "../util/Text";
 
 export function Menu() {
