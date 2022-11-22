@@ -12,7 +12,7 @@ export const Catalog = () => {
             price={plant[0].preco}
           />
           <OffersCards
-            img={`../src/assets/${plant[1].img}.svg`}
+            img={`../src/assets/${plant[1].img}.png`}
             alt={plant[1].name}
             title={plant[1].name}
             price={plant[1].preco}
