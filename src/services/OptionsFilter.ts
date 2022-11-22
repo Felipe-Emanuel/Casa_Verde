@@ -1,5 +1,3 @@
-import { useState } from "react";
-import { OffersCards } from "../components/OffersCards";
 import plant from "../util/plant.json";
 
 const prices = plant.map(price => price.preco)
