@@ -100,7 +100,7 @@ export const Offers = () => {
               return (
                 <div>
                   <OffersCards
-                    img={`../public/img/${plants.img}.png`}
+                    img={`../public/${plants.img}.png`}
                     alt={plants.name}
                     title={plants.name}
                     price={plants.preco}
@@ -115,7 +115,7 @@ export const Offers = () => {
               return (
                 <div>
                   <OffersCards
-                    img={`../public/img/${plants.img}.png`}
+                    img={`../public/${plants.img}.png`}
                     alt={plants.name}
                     title={plants.name}
                     price={plants.preco}
